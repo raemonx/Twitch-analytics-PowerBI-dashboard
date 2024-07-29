@@ -5,7 +5,7 @@
 Welcome to the Interactive Twitch Stream Analytics Dashboard project! This project leverages Power BI to analyze the top 20 games on Twitch, providing valuable insights through a combination of powerful visualizations and interactive features.
 
 ## Project Highlights
-![TwitchDashboard](pic1.png)
+![TwitchDashboard](pic1.PNG)
 ### Diverse Visualizations
 - **Pie Charts**: Display the distribution of viewer counts across different games.
 - **Bar Graphs**: Show the number of streams by language and other key metrics.
